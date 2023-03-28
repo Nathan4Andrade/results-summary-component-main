@@ -205,3 +205,16 @@ svg {
     margin: 0;
   }
 }
+
+/* @media (max-width: 251px) {
+  .summary {
+    display: none;
+  }
+  .container {
+    margin: auto;
+  }
+  .result {
+    height: 50%;
+    border-radius: 30px;
+  }
+} */
